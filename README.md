@@ -15,7 +15,7 @@ A smart engagement bot SaaS for content creators on Instagram and TikTok. The to
 
 ## Tech Stack
 
-- **Frontend**: Next.js 15, React 19, TypeScript, Tailwind CSS
+- **Frontend**: Next.js 10, React 16, TypeScript, Tailwind CSS
 - **Backend**: Next.js API Routes
 - **Database**: Supabase (PostgreSQL)
 - **Authentication**: Supabase Auth
